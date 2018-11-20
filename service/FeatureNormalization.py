@@ -1,4 +1,3 @@
-
 class FeatureNormalization:
 	
 	def normalize(instances, activation_function):
@@ -62,3 +61,4 @@ class FeatureNormalization:
 				instances[i][j] = value
 			
 		return instances
+	
