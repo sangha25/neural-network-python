@@ -1,1 +1,1 @@
-# neural-network-python
+# Neural Networks Fundamentals in Python
